@@ -1,1 +1,61 @@
-a
+body {
+    background-color: rgb(224, 224, 224);
+}
+
+.quien-soy {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(182, 121, 42);
+    padding: 5px;
+    border: 3px solid black;
+
+}
+
+.quien-soy div {
+    background-color: rgb(224, 224, 224);
+    border: 2px solid black;
+    width: fit-content;
+    margin: 10px;
+    font-size: 20px;
+    line-height: 25px;
+    float: left;
+}
+
+.est-gustos {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(182, 121, 42);
+    padding: 1px;
+    border: 3px solid black;
+}
+
+.est-gustos div {
+    background-color: rgb(224, 224, 224);
+    border: 2px solid black;
+    width: fit-content;
+    margin: 10px;
+    text-align: center;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+img {
+    width: 150px;
+}
+
+.nombre {
+    background-color: rgb(182, 121, 42) ;
+    width: fit-content;
+    height: fit-content;
+    padding: 3px;
+}
+
+.contacto {
+    width: fit-content;
+    height: fit-content;
+    background-color: rgb(255, 97, 97);   
+}
+
+a:hover {
+    background-color: rgb(236, 255, 64);
+}
