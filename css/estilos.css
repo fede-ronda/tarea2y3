@@ -1,82 +1,83 @@
 body {
-    background-color: rgb(224, 224, 224);
-    margin: 10px;
-    font-family: 'Ubuntu', sans-serif;
+  background-color: rgb(224, 224, 224);
+  margin: 10px;
+  font-family: "Ubuntu", sans-serif;
 }
 
 .caja1 {
-    display: flex;
-    background-color:rgb(182, 121, 42) ;
-    padding: 2px;
-    border: 3px solid rgb(114, 69, 10) ;
+  display: flex;
+  background-color: rgb(182, 121, 42);
+  padding: 3px;
+  border: 3px solid rgb(114, 69, 10);
 }
 
 .img {
-    margin: 8px;
-}
+  margin: 8px;
+  
 
+}
 
 .contenido1 {
-    background-color: rgb(224, 224, 224);
-    width: fit-content;
-    margin: 10px;
-    padding: 5px;
-    text-align: start;
-    line-height: 20px ;
-    font-size: 15px ;
-    border: 3px solid rgb(167, 167, 167);
+  background-color: rgb(224, 224, 224);
+  width: fit-content;
+  margin: 10px;
+  padding: 5px;
+  text-align: start;
+  line-height: 20px;
+  font-size: 15px;
+  border: 3px solid rgb(167, 167, 167);
 }
 
- .caja2 {
-    background-color:rgb(182, 121, 42) ;
-    padding: 2px;
-    border: 3px solid rgb(114, 69, 10) ;
-    width: fit-content;
+.caja2 {
+  background-color: rgb(182, 121, 42);
+  padding: 2px;
+  border: 3px solid rgb(114, 69, 10);
+  width: fit-content;
 }
 
 .contenido2 {
-    background-color: rgb(224, 224, 224);
-    width: fit-content;
-    margin: 10px;
-    padding: 5px;
-    text-align: start;
-    line-height: 20px ;
-    font-size: 15px ;
-    border: 3px solid rgb(167, 167, 167);
+  background-color: rgb(224, 224, 224);
+  width: fit-content;
+  margin: 10px;
+  padding: 5px;
+  text-align: start;
+  line-height: 20px;
+  font-size: 15px;
+  border: 3px solid rgb(167, 167, 167);
 }
 
 .caja3 {
-    background-color:rgb(182, 121, 42) ;
-    padding: 2px;
-    border: 3px solid rgb(114, 69, 10) ;
-    width: fit-content;
+  background-color: rgb(182, 121, 42);
+  padding: 2px;
+  border: 3px solid rgb(114, 69, 10);
+  width: fit-content;
 }
 
 .contenido3 {
-    background-color: rgb(224, 224, 224);
-    width: fit-content;
-    margin: 10px;
-    padding: 5px;
-    text-align: start;
-    line-height: 20px ;
-    font-size: 15px ;
-    border: 3px solid rgb(167, 167, 167);
+  background-color: rgb(224, 224, 224);
+  width: fit-content;
+  margin: 10px;
+  padding: 5px;
+  text-align: start;
+  line-height: 20px;
+  font-size: 15px;
+  border: 3px solid rgb(167, 167, 167);
 }
 
 .nombre {
-    background-color: rgb(182, 121, 42) ;
-    border: 3px solid rgb(114, 69, 10) ;
-    width: fit-content;
-    height: fit-content;
-    padding: 3px;
+  background-color: rgb(182, 121, 42);
+  border: 3px solid rgb(114, 69, 10);
+  width: fit-content;
+  height: fit-content;
+  padding: 3px;
 }
 
 .contacto {
-    width: fit-content;
-    height: fit-content;
-    background-color: rgb(255, 97, 97);   
+  width: fit-content;
+  height: fit-content;
+  background-color: rgb(255, 97, 97);
 }
 
 a:hover {
-    background-color: rgb(236, 255, 64);
+  background-color: rgb(236, 255, 64);
 }
