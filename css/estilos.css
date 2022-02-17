@@ -65,6 +65,7 @@ body {
 
 .nombre {
     background-color: rgb(182, 121, 42) ;
+    border: 3px solid rgb(114, 69, 10) ;
     width: fit-content;
     height: fit-content;
     padding: 3px;
